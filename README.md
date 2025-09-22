@@ -49,7 +49,7 @@ pyttsx3
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/[your-username]/gesture-controlled-smart-home.git
+git clone https://github.com/BADDEEP007/Hand_gesture_model.git
 cd gesture-controlled-smart-home
 ```
 
@@ -58,10 +58,6 @@ cd gesture-controlled-smart-home
 pip install opencv-python mediapipe pycaw screen-brightness-control pyautogui pyttsx3
 ```
 
-3. **Download MediaPipe Gesture Recognition Model**
-   - Download the `gesture_recognizer.task` model file from MediaPipe
-   - Place it in your project directory
-   - Update the `MODEL_PATH` variable in the code to point to your model file
 
 ## 🚀 Usage
 
@@ -167,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-[Your Name] - [your.email@example.com]
+[Pradeep Argal] - [Pradeepargal22@gmail.com]
 
 Project Link: [https://github.com/[your-username]/gesture-controlled-smart-home](https://github.com/[your-username]/gesture-controlled-smart-home)
 
