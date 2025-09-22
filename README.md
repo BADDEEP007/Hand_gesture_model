@@ -165,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [Pradeep Argal] - [Pradeepargal22@gmail.com]
 
-Project Link: [https://github.com/[your-username]/gesture-controlled-smart-home](https://github.com/[your-username]/gesture-controlled-smart-home)
+
 
 ---
 
